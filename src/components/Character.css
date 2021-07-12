@@ -1,0 +1,31 @@
+p {
+    font-size: 20px;
+    color: #cee0cb;
+}
+
+h1
+{
+  font-size: 48px;
+  text-shadow: -1px -1px #f00, 1px 1px #a00, -3px 0 4px rgb(175, 9, 161);
+  font-family:"Segoe print", Arial, Helvetica, sans-serif;
+  color: #2de614;
+  padding:10px 0 0 0;
+  margin:16px auto;
+  font-weight:lighter;
+  -moz-box-shadow:none;  
+  -webkit-box-shadow: none;  
+  box-shadow:none;  
+  text-align:center;
+  display:block;
+}
+
+button{
+    background-color: #2de614;
+    color: #0e2511;
+    padding: 5px 50px 5px 50px;
+    border-radius: 20px;
+    border-style: none;
+    height: 2rem;
+  box-shadow: -1px -1px #f00, 1px 1px #a00, -3px 0 4px rgb(175, 9, 161);
+
+  }
